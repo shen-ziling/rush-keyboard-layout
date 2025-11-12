@@ -6,12 +6,12 @@ Rush Keyboard Layout
 ```
 v y f l x   k p o q
 
-r u s n j   b t a e i
+r u s n m   b t a e i
 
-z w c h m   g d
+z w c h j   g d
 ```
 
-Ergo:
+Ergo (suggested) :
 
 ```
 v y f l x k p o q
