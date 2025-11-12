@@ -3,19 +3,23 @@ Keyboard layout for English.
 
 Rush Keyboard Layout
 
+```
 v y f l x   k p o q
 
-r u s **n** j   b **t** a e i
+r u s n j   b t a e i
 
 z w c h m   g d
+```
 
 Ergo:
 
+```
 v y f l x k p o q
 
-r u s **n** j b **t** a e i
+r u s n j b t a e i
 
  w c h m z g d
+```
 
 Sfb:  0.875%
 
