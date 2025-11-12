@@ -4,41 +4,73 @@ Keyboard layout for English.
 Rush Keyboard Layout
 
 v y f l x   k p o q
+
 r u s **n** j   b **t** a e i
+
 z w c h m   g d
 
 Ergo:
+
 v y f l x k p o q
+
 r u s **n** j b **t** a e i
+
  w c h m z g d
 
 Sfb:  0.875%
+
 Dsfb: 8.865%
+
 Lsb:  1.808%
+
 Inrolls: 19.235%
+
 Outrolls: 17.652%
+
 Total Rolls: 36.887%
+
 Onehands: 1.663%
+
 Alternates: 36.176%
+
 Alternates (sfs): 8.469%
+
 Total Alternates: 44.645%
+
 Redirects: 7.917%
+
 BadRedirects: 0.392%
+
 Total Redirects: 8.309%
+
 Other: 8.496%
+
 Invalid: 0.001%
 
+
+
 finger 0:	7.17%	finger 9:	9.21%
+
 finger 1:	6.60%	finger 8:	11.91%
+
 finger 2:	11.55%	finger 7:	15.99%
+
 finger 3:	18.29%	finger 6:	18.93%
+
 Left hand: 43.61%	Right hand: 56.03%
+
 Left center: 2.801%	Right center: 4.336%
+
 Home keys usage: 57.59%
+
 Sfb% per finger:
+
 finger 0:	0.064%	finger 9:	0.021%
+
 finger 1:	0.031%	finger 8:	0.058%
+
 finger 2:	0.186%	finger 7:	0.105%
+
 finger 3:	0.210%	finger 6:	0.200%
 
 
