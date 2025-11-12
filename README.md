@@ -21,7 +21,7 @@ r u s n j b t a e i
  w c h m z g d
 ```
 
-Sfb:  0.875%
+**Sfb:  0.875%**
 
 Dsfb: 8.865%
 
@@ -31,7 +31,7 @@ Inrolls: 19.235%
 
 Outrolls: 17.652%
 
-Total Rolls: 36.887%
+**Total Rolls: 36.887%**
 
 Onehands: 1.663%
 
@@ -39,13 +39,13 @@ Alternates: 36.176%
 
 Alternates (sfs): 8.469%
 
-Total Alternates: 44.645%
+**Total Alternates: 44.645%**
 
 Redirects: 7.917%
 
 BadRedirects: 0.392%
 
-Total Redirects: 8.309%
+**Total Redirects: 8.309%**
 
 Other: 8.496%
 
